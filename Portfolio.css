@@ -1,6 +1,28 @@
 *{
   box-sizing: border-box;
 }
+/* unvisited link */
+a.effects:link{
+    color: #ffffff;
+}
+/* visited link */
+a.effects:visited{
+    color: #ffffff;
+}
+/* mouse over link */
+a.effects:hover{
+    color: #808080;
+    font-size:140%;
+}
+/* selected link */
+a.effects:active{
+    color: #404040;
+    font-size:120%;
+}
+/* mouse over link */
+a.uda:hover{
+    font-size:130%;
+}
 html{
   height: 100%;
   margin: 0;
