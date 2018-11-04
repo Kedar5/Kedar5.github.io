@@ -12,16 +12,16 @@ a.effects:visited{
 /* mouse over link */
 a.effects:hover{
     color: #808080;
-    font-size:140%;
+    font-size:110%;
 }
 /* selected link */
 a.effects:active{
     color: #404040;
-    font-size:120%;
+    font-size:110%;
 }
 /* mouse over link */
 a.uda:hover{
-    font-size:130%;
+    font-size:110%;
 }
 html{
   height: 100%;
